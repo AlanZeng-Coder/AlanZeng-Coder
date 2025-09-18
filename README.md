@@ -1,10 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="150">
-    </td>
-    <td valign="top">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/1920px-Seal_of_University_of_California%2C_Berkeley.svg.png" alt="Berkeley Campanile" width="150">
+      <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="200">
     </td>
   </tr>
 </table>
