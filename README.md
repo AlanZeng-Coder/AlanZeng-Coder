@@ -1,4 +1,4 @@
-<img src="[在这里放一张你喜欢的顶部图片或 GIF，比如伯克利的风景图或代码截图]" alt="Banner">
+<img src="(https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/MyPicture.jpg)" alt="Banner">
 
 <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
 <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
