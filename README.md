@@ -1,4 +1,4 @@
-<img src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/MyPicture.jpg" alt="Banner" width = "900">
+<img src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/MyPicture.jpg" alt="Banner" width = "100">
 <img src="https://news.berkeley.edu/wp-content/uploads/2020/03/Campanile_sunset_750.jpg" alt="Berkeley Campanile" width="900">
 <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
 <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
