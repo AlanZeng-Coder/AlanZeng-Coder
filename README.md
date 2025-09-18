@@ -4,7 +4,7 @@
       <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="150">
     </td>
     <td valign="top">
-      <img src="https://www.google.com/imgres?q=UC%20berkeley&imgurl=https%3A%2F%2Fwww.tclf.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffull_width%2Fpublic%2Fthumbnails%2Fimage%2FCA_Berkeley_UniversityOfCaliforniaAtBerkeley_byCharlieNguyen-Flickr_2008_001_Sig.jpg%3Fitok%3Dxj9PXLbL&imgrefurl=https%3A%2F%2Fwww.tclf.org%2Flandscapes%2Funiversity-california-berkeley&docid=G3BjpOSuDXaQDM&tbnid=KkFsc4IHnVtYbM&vet=12ahUKEwjCrM3Dv-OPAxWHIjQIHT84MZAQM3oECBsQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjCrM3Dv-OPAxWHIjQIHT84MZAQM3oECBsQAA" alt="Berkeley Campanile" width="150">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/1920px-Seal_of_University_of_California%2C_Berkeley.svg.png" alt="Berkeley Campanile" width="150">
     </td>
   </tr>
 </table>
