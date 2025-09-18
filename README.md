@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I am Alan Zeng</h1>
 <h3 align="center">Backend Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[你的GitHub用户名]&label=Profile%20views&color=0e75b6&style=flat" alt="[你的GitHub用户名]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanZeng-Coder&label=Profile%20views&color=0e75b6&style=flat" alt="AlanZeng-Coder" /> </p>
 
 - 🔭 我目前正在开发 **[你正在做的项目或技术]**
 - 🌱 我正在学习 **[你最近在学习的技术, e.g., Rust, WebAssembly...]**
