@@ -1,5 +1,13 @@
-<img src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/MyPicture.jpg" alt="Banner" width = "100">
-<img src="https://news.berkeley.edu/wp-content/uploads/2020/03/Campanile_sunset_750.jpg" alt="Berkeley Campanile" width="900">
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="150">
+    </td>
+    <td valign="top">
+      <img src="https://www.google.com/imgres?q=UC%20berkeley&imgurl=https%3A%2F%2Fwww.tclf.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffull_width%2Fpublic%2Fthumbnails%2Fimage%2FCA_Berkeley_UniversityOfCaliforniaAtBerkeley_byCharlieNguyen-Flickr_2008_001_Sig.jpg%3Fitok%3Dxj9PXLbL&imgrefurl=https%3A%2F%2Fwww.tclf.org%2Flandscapes%2Funiversity-california-berkeley&docid=G3BjpOSuDXaQDM&tbnid=KkFsc4IHnVtYbM&vet=12ahUKEwjCrM3Dv-OPAxWHIjQIHT84MZAQM3oECBsQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjCrM3Dv-OPAxWHIjQIHT84MZAQM3oECBsQAA" alt="Berkeley Campanile" width="150">
+    </td>
+  </tr>
+</table>
 <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
 <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
 
