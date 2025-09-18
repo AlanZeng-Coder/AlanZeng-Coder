@@ -42,10 +42,12 @@
   </tr>
 </table>
 
+---
+
 <h3 align="left">📊 我的 GitHub 统计:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanZeng-Coder&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanZeng-Coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[你的GitHub用户名]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
 </p>
 
 ---
@@ -95,11 +97,11 @@
       </p>
     </td>
     <td>
-      <a href="[你的第四个项目链接]">
+      <a href="#">
         <img src="[项目的截图或Logo]" width="220px" alt="Project 4"/>
       </a>
       <br>
-      <strong><a href="[你的第四个项目链接]">[项目4名称]</a></strong>
+      <strong><a href="#">[项目4名称]</a></strong>
       <br>
       <p>[项目4的简短描述]</p>
       <p>
@@ -115,11 +117,3 @@
   <a href="mailto:zienzeng0510@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alan Zeng" /></a>
   <a href="[你的领英(LinkedIn)主页链接]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alan Zeng LinkedIn" /></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-
