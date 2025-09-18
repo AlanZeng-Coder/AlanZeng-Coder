@@ -1,4 +1,4 @@
-<img src="(https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/MyPicture.jpg)" alt="Banner">
+<img src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/MyPicture.jpg" alt="Banner">
 
 <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
 <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
