@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="200">
+      <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="100">
     </td>
   </tr>
 </table>
