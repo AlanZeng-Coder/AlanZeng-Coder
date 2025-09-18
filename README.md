@@ -2,8 +2,7 @@
   <img src="https://news.berkeley.edu/wp-content/uploads/2020/03/Campanile_sunset_750.jpg" alt="Berkeley Campanile" width="900">
 </p>
 
-<table>
-  <tr>
+
     <td width="75%" valign="top">
       <h1 align="left">你好 👋, 我是 Alan Zeng</h1>
       <h3 align="left">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
@@ -39,8 +38,7 @@
     <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="180" style="border-radius:50%">
     </td>
-  </tr>
-</table>
+
 
 ---
 
