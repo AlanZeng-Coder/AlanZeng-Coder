@@ -101,6 +101,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanZeng-Coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
 </p>
 
+--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlanZeng-Coder&theme=tokyonight&row=1&column=7" alt="alan zeng github trophy" />
+</p>
 ---
 
 <p align="center">
