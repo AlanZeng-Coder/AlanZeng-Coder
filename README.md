@@ -71,7 +71,7 @@
 <td width="50%" align="center">
   <p align="center">
     <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
-      <b>AI Agents for Pacman</b>
+      <b>AI Agents via Reinforcement Learning</b>
     </a>
   </p>
   <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
@@ -80,7 +80,7 @@
   <br>
   <p align="center">
     <em>
-      Implemented various AI algorithms (Adversarial Search, Reinforcement Learning, Probabilistic Inference) to power Pacman agents, focusing on the backend decision-making logic.
+      Developed foundational reinforcement learning agents from scratch. Implemented both a model-based planner using <strong>Value Iteration</strong> to solve known environments, and a model-free agent using <strong>Q-Learning</strong> that learns optimal policies through trial-and-error. Successfully trained the agents to master tasks in a Gridworld and to control a simulated Crawler robot.
     </em>
   </p>
   <p align="center">
