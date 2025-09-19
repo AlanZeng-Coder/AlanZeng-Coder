@@ -13,7 +13,7 @@
   </p>
   <p align="center">
     <a href="mailto:zienzeng0510@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alan Zeng" /></a>
-    <a href="www.linkedin.com/in/alan-zeng-bb5b32315" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alan Zeng LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/alan-zeng-bb5b32315/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alan Zeng LinkedIn" /></a>
   </p>
 </div>
 
