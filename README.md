@@ -4,7 +4,7 @@
   <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
   <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend+and+AI+Developer;Always+Learning+and+Building...&center=true&size=22&color=36BCF7" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+Backend+Developer;Always+Learning+and+Building...&center=true&size=22&color=36BCF7" alt="Typing SVG" /></a>
   
   
   <p align = "center">
