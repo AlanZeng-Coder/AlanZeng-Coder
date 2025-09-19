@@ -1,5 +1,5 @@
 <img src="[在这里放一张你喜欢的顶部图片或 GIF，比如伯克利的风景图或代码截图]" alt="Banner">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)(https://git.io/typing-svg)
 <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
 <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
 
