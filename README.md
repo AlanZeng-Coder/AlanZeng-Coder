@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="200" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="150" style="border-radius:50%">
   
   <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
   <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
