@@ -110,3 +110,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanZeng-Coder&theme=tokyonight" alt="github activity graph"/>
 </p>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/output/github-contribution-grid-snake.svg" alt="Alan's contribution snake animation" />
+</p>
