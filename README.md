@@ -49,11 +49,11 @@
 <tr border="0">
 <td width="50%" align="center">
   <p align="center">
-    <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
+    <a href="https://github.com/AlanZeng-Coder/Secure-Distributed-File-System" target="_blank">
       <b>Secure Distributed File System</b>
     </a>
   </p>
-  <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
+  <a href="https://github.com/AlanZeng-Coder/Secure-Distributed-File-System" target="_blank">
     <img src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/USER.png" alt="Secure File System" width="100%">
   </a>
   <br>
