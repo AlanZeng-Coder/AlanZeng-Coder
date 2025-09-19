@@ -49,11 +49,11 @@
 <tr border="0">
 <td width="50%" align="center">
   <p align="center">
-    <a href="[你的项目仓库链接]" target="_blank">
+    <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
       <b>Secure Distributed File System</b>
     </a>
   </p>
-  <a href="[你的项目仓库链接]" target="_blank">
+  <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
     <img src="[项目截图或GIF链接]" alt="Secure File System" width="100%">
   </a>
   <br>
@@ -70,11 +70,11 @@
 </td>
 <td width="50%" align="center">
   <p align="center">
-    <a href="[你的项目仓库链接]" target="_blank">
+    <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
       <b>AI Agents for Pacman</b>
     </a>
   </p>
-  <a href="[你的项目仓库链接]" target="_blank">
+  <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
     <img src="[项目截图或GIF链接]" alt="Pacman AI" width="100%">
   </a>
   <br>
