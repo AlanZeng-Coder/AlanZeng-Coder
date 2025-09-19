@@ -2,19 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天午夜运行一次
-  workflow_dispatch: # 允许手动触发
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      # 给予 workflow 写权限来推送更改
+      # Give the workflow write permissions to push changes
       contents: write
       
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      # -- 👇 NEW STEP ADDED HERE 👇 --
+      - name: Create output directory
+        run: mkdir -p dist
+      # -- 👆 NEW STEP ADDED HERE 👆 --
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
