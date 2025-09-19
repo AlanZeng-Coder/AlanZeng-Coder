@@ -75,7 +75,7 @@
     </a>
   </p>
   <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
-    <img src="[项目截图或GIF链接]" alt="Pacman AI" width="100%">
+    <img src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/Sep-18-2025%2022-42-25.gif" alt="Pacman AI" width="100%">
   </a>
   <br>
   <p align="center">
