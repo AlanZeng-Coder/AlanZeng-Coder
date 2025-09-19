@@ -40,6 +40,61 @@
 
 ---
 
+<h3 align="center">🚀 我的精选项目</h3>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  <p align="center">
+    <a href="[你的项目仓库链接]" target="_blank">
+      <b>Secure Distributed File System</b>
+    </a>
+  </p>
+  <a href="[你的项目仓库链接]" target="_blank">
+    <img src="[项目截图或GIF链接]" alt="Secure File System" width="100%">
+  </a>
+  <br>
+  <p align="center">
+    <em>
+      一个基于零信任原则设计的端到端加密文件系统，确保数据在不可信存储上的机密性、真实性和完整性。
+    </em>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    <img src="https://img.shields.io/badge/Cryptography-6E44FF?style=for-the-badge" alt="Crypto"/>
+    <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge" alt="System Design"/>
+  </p>
+</td>
+<td width="50%" align="center">
+  <p align="center">
+    <a href="[你的项目仓库链接]" target="_blank">
+      <b>AI Agents for Pacman</b>
+    </a>
+  </p>
+  <a href="[你的项目仓库链接]" target="_blank">
+    <img src="[项目截图或GIF链接]" alt="Pacman AI" width="100%">
+  </a>
+  <br>
+  <p align="center">
+    <em>
+      实现了多种AI算法（对抗搜索、强化学习、概率推理）来驱动Pacman游戏代理，专注于后端决策逻辑的实现。
+    </em>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/AI-F7931E?style=for-the-badge" alt="AI"/>
+    <img src="https://img.shields.io/badge/Reinforcement_Learning-4285F4?style=for-the-badge" alt="RL"/>
+  </p>
+</td>
+</tr>
+</table>
+
+
+
+
+---
+
+
+
 <h3 align="left">📊 我的 GitHub 统计:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanZeng-Coder&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
