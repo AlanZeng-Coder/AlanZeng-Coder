@@ -5,15 +5,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="100" style="border-radius:50%">
   
-  <h1 align="center">你好 👋, 我是 Alan Zeng</h1>
+  <h1 align="center">Hello 👋, I'm Alan Zeng</h1>
   <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+Backend+Developer;Always+Learning+and+Building...&center=true&size=22&color=8AEBE2" alt="Typing SVG" /></a>
   
   
   <p align = "center">
-        - 💬 我擅长的技术领域包括 <b>Java, Python, Go, Spring Boot, 分布式系统设计</b> 和 <b>AI 算法</b>。<br>
-        - 📫 你可以通过邮件联系我: <b>zienzeng0510@gmail.com</b>
+        - 💬 My technical interests include <b>Java, Python, Go, Spring Boot, Distributed Systems Design</b> and <b>AI Algorithms</b>.<br>
+        - 📫 You can reach me by email at: <b>zienzeng0510@gmail.com</b>
   </p>
   <p align="center">
     <a href="mailto:zienzeng0510@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alan Zeng" /></a>
@@ -22,7 +22,7 @@
   </p>
 </div>
 
-<h3 align="center">🛠️ 我的技术栈:</h3>
+<h3 align="center">🛠️ My Tech Stack:</h3>
 <p align="center">
   <strong>Languages:</strong><br>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -44,7 +44,7 @@
 
 ---
 
-<h3 align="center">🚀 我的精选项目</h3>
+<h3 align="center">🚀 My Featured Projects</h3>
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -59,7 +59,7 @@
   <br>
   <p align="center">
     <em>
-      一个基于零信任原则设计的端到端加密文件系统，确保数据在不可信存储上的机密性、真实性和完整性。
+      An end-to-end encrypted file system based on zero-trust principles, ensuring data confidentiality, authenticity, and integrity on untrusted storage.
     </em>
   </p>
   <p align="center">
@@ -80,7 +80,7 @@
   <br>
   <p align="center">
     <em>
-      实现了多种AI算法（对抗搜索、强化学习、概率推理）来驱动Pacman游戏代理，专注于后端决策逻辑的实现。
+      Implemented various AI algorithms (Adversarial Search, Reinforcement Learning, Probabilistic Inference) to power Pacman agents, focusing on the backend decision-making logic.
     </em>
   </p>
   <p align="center">
@@ -92,14 +92,9 @@
 </tr>
 </table>
 
-
-
-
 ---
 
-
-
-<h3 align="left">📊 我的 GitHub 统计:</h3>
+<h3 align="left">📊 My GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanZeng-Coder&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanZeng-Coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
