@@ -14,7 +14,7 @@
   <p align="center">
     <a href="mailto:zienzeng0510@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alan Zeng" /></a>
     <a href="https://www.linkedin.com/in/alan-zeng-bb5b32315/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alan Zeng LinkedIn" /></a>
-    <a href="[这里替换成你刚刚复制的PDF链接]" target="blank"><img align="center" src="https://img.shields.io/badge/View_My_Resume-DA291C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Alan's Resume" /></a>
+    <a href="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/Resume_AlanZeng.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/View_My_Resume-DA291C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Alan's Resume" /></a>
   </p>
 </div>
 
