@@ -41,6 +41,6 @@
 
 <h3 align="left">📊 我的 GitHub 统计:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[你的GitHub用户名]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanZeng-Coder&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanZeng-Coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
 </p>
