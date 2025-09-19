@@ -8,7 +8,7 @@
   <h1 align="center">Hello 👋, I'm Alan Zeng</h1>
   <h3 align="center">UC Berkeley CS & Applied Math Student | Backend & AI Developer</h3>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+Backend+Developer;...Always+Learning+and+Building...&center=true&size=22&color=8AEBE2" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+Backend+Developer;..Always+Learning+and+Building...&center=true&size=22&color=8AEBE2" alt="Typing SVG" /></a>
   
   
   <p align = "center">
