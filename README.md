@@ -54,7 +54,7 @@
     </a>
   </p>
   <a href="https://github.com/AlanZeng-Coder/AI_Agent_Reinforcement" target="_blank">
-    <pdf src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/USER.pdf" alt="Secure File System" width="100%">
+    <img src="https://github.com/AlanZeng-Coder/AlanZeng-Coder/blob/main/assets/USER.png" alt="Secure File System" width="100%">
   </a>
   <br>
   <p align="center">
