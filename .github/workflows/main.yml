@@ -16,16 +16,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # -- 👇 NEW STEP ADDED HERE 👇 --
       - name: Create output directory
         run: mkdir -p dist
-      # -- 👆 NEW STEP ADDED HERE 👆 --
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # -- 👇 THIS IS THE LINE WE FIXED 👇 --
+          outputs: dist/github-contribution-grid-snake.svg
+          # -- 👆 FROM 'svg_out_path' TO 'outputs' 👆 --
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
