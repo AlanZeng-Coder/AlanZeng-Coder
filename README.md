@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://news.berkeley.edu/wp-content/uploads/2020/03/Campanile_sunset_750.jpg" alt="Berkeley Campanile" width="900">
-</p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlanZeng-Coder/AlanZeng-Coder/main/assets/MyPicture.jpg" alt="Alan Zeng" width="200" style="border-radius:50%">
   
