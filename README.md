@@ -44,3 +44,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanZeng-Coder&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanZeng-Coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanZeng-Coder&theme=tokyonight" alt="github activity graph"/>
+</p>
