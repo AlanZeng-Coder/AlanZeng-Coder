@@ -94,21 +94,26 @@
 
 ---
 
-<h3 align="left">📊 My GitHub Stats:</h3>
+<h3 align="center">📊 My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanZeng-Coder&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Alan Zeng's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanZeng-Coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Alan Zeng's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanZeng-Coder&show_icons=true&locale=en&theme=tokyonight&count_private=true&cache_seconds=86400" alt="Alan Zeng's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanZeng-Coder&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Alan Zeng's Top Languages" />
 </p>
 
---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlanZeng-Coder&theme=tokyonight&row=1&column=7" alt="alan zeng github trophy" />
-</p>
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanZeng-Coder&theme=tokyonight" alt="github activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlanZeng-Coder&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15" alt="alan zeng github trophy" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanZeng-Coder&theme=tokyo-night&hide_border=true" alt="github activity graph"/>
+</p>
+
 ---
 
 <p align="center">
